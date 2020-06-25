@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="197.36119"
+   height="42.160114"
+   viewBox="0 0 52.21848 11.154864"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/media/art/data/SourceCode/PythonGUI/images/logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2">
+    <clipPath
+       id="b">
+      <path
+         id="path1018"
+         d="m-242.99 334.54c-0.62195-0.00514-1.2558 0.01293-1.8801 0.02827-21.458 0.21899-41.149 11.965-55.072 27.366-0.36758 0.41829-0.77675 0.80014-1.2148 1.1308-2.6771 2.0209-6.4699 2.2928-8.9376-0.50887-0.42115-0.31848-0.84269-0.62405-1.2726-0.93292-13.209-9.4885-30.5-14.352-46.539-9.5837-2.1524 0.53875-4.255 1.1968-6.3055 1.9789-10.159 3.8751-19.02 10.609-26.09 18.828-4.1598 4.1647-7.7942 8.7907-10.847 13.739-9.0515 14.675-13.007 32.241-10.528 49.388 0.72801 5.5296 2.3892 10.684 4.6857 15.577 6.643 14.155 18.652 25.985 29.185 37.373 3.0301 2.9749 6.1229 5.9003 9.2558 8.7638 26.269 24.011 55.86 44.409 83.678 66.577 2.288 1.4653 5.4212 5.5525 6.0162 0.59369 0.01108-0.0286 0.01782-0.05624 0.02892-0.0848 1.0744-2.7648 2.2237-5.5064 3.4131-8.2267 10.307-23.574 24.894-45.372 43.213-63.722 1.4736-1.6072 2.9628-3.2062 4.4833-4.7777 15.613-16.136 33.324-30.678 45.411-49.615 1.3919-2.3264 2.6065-4.7237 3.6155-7.1807 8.117-19.765 4.1599-43.204-6.479-61.432-2.2951-3.8617-4.9701-7.562-7.9831-10.997-12.471-14.218-30.556-24.125-49.836-24.284zm-8.3012 18.63c16.665 0.13189 32.318 8.3319 43.097 20.1 2.6043 2.8434 4.9003 5.9066 6.884 9.1031 9.1957 15.087 12.598 34.471 5.5824 50.83-0.87215 2.0337-1.8918 4.0394-3.0949 5.965-10.448 15.674-25.756 27.693-39.25 41.049-1.3142 1.3007-2.6021 2.6276-3.8758 3.9579-15.834 15.188-28.461 33.24-37.37 52.753-1.028 2.2516-1.9927 4.5247-2.9213 6.8132-0.00961 0.02365-0.01933 0.03288-0.02893 0.05653-0.51434 4.1045-3.2288 0.73225-5.2064-0.4806-24.044-18.349-49.634-35.253-72.34-55.127-2.7079-2.3702-5.364-4.7748-7.9831-7.2372-9.1035-9.4264-19.48-19.212-25.222-30.928-1.985-4.0504-3.4202-8.3426-4.0494-12.92-2.1419-14.193 1.2586-28.732 9.0822-40.879 2.6383-4.0962 5.8049-7.9176 9.4004-11.365 6.1108-6.8034 13.751-12.369 22.532-15.577 1.7724-0.64739 3.6063-1.1938 5.4667-1.6397 13.863-3.9469 28.787 0.09017 40.205 7.944 0.37165 0.25564 0.73512 0.49967 1.0991 0.76328 2.1329 2.319 5.4088 2.0968 7.7228 0.42407 0.37865-0.27372 0.75251-0.58671 1.0702-0.93294 12.034-12.748 29.033-22.463 47.58-22.645 0.5396-0.01269 1.0822-0.03252 1.6198-0.02827z" />
+    </clipPath>
+    <radialGradient
+       spreadMethod="reflect"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.86361,-0.2681,0.32259,1.0391,-62.62,-50.49)"
+       r="132.35"
+       cy="144.61"
+       cx="-152.88"
+       id="a">
+      <stop
+         id="stop1021"
+         offset="0"
+         stop-color="#ff1200" />
+      <stop
+         id="stop1023"
+         offset=".5"
+         stop-color="#e20a00" />
+      <stop
+         id="stop1025"
+         offset="1"
+         stop-color="#8d0200" />
+    </radialGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.0113691"
+     inkscape:cx="97.548091"
+     inkscape:cy="19.891993"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="703"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.0430009,-286.10901)">
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30281046;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect820"
+       width="52.218483"
+       height="11.154863"
+       x="0.043000896"
+       y="286.10901" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.90160513px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.32923356"
+       x="0.6291582"
+       y="293.8952"
+       id="text843"><tspan
+         sodipodi:role="line"
+         id="tspan841"
+         x="0.6291582"
+         y="293.8952"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.90160513px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff6600;stroke-width:0.32923356">Python GUI</tspan></text>
+  </g>
+</svg>
