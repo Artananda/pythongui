@@ -61,6 +61,157 @@ Content {
     }
 
     Section {
+
+        Row {
+
+            Column {
+                span: 12
+
+                Text {
+                    text: "&lt;h1 class=&quot;margin-top80&quot;&gt;Books&lt;/h1&gt;"
+                    adminlabel: "Books"
+                }
+            }
+        }
+    }
+
+    Section {
+
+        Row {
+
+            Column {
+                span: 4
+
+                Image {
+                    src: "CoverEN.png"
+                    animation: "fadeIn"
+                    animation_type: "Fading Entrances"
+                }
+            }
+
+            Column {
+                span: 8
+
+                Text {
+                    text: "&lt;h2&gt;Develop Android Applications using Python, Qt and PyQt5&lt;/h2&gt;
+&lt;p&gt;
+Are you going to build a GUI app for Android using Python or are you just curious what&#x27;s possible in your 
+programming language of choice then this book is for you.&lt;/br&gt;
+This book covers the full process from installing over coding to deploying apps to Android using Python, 
+Qt5, PyQt5 and Visual Studio Code.&lt;/br&gt;
+This book covers only the declarative approach using QtQuick and QML.&lt;/br&gt;
+I will show you how to setup a Linux machine as development and deployment platform and an Android phone as 
+deployment device.&lt;/br&gt;
+All apps described in this book should also work on the other platform like iPhone, Windows, Mac OS and Linux.&lt;/br&gt;&lt;/br&gt;
+
+&lt;strong&gt;Who This Book Is For&lt;/strong&gt;&lt;/br&gt;
+If you are able to write basic Python code and you are interested in developing apps with user interfaces for 
+Android in Python this book is right for you.&lt;/br&gt;
+This book does not assume that you are familiar with Qt.&lt;/br&gt;
+If you want, try out all of the examples in this book it would be a great benefit if you are also working 
+on a Linux machine like me, but MacOS and Windows should also be ok if your are able to search for help in 
+the internet for OS specific differences.&lt;/br&gt;&lt;/br&gt;
+
+If you already read my book Python GUI - Develop Cross Platform GUI Applications using Python, Qt 
+and PyQt5 you might only see that one chapter differences to this book along some other enhancements.
+I used a few chapters of that book and I only added one chapter about QML applications and therefore I have 
+dropped the Desktop part.&lt;/br&gt;&lt;/br&gt;
+
+&lt;strong&gt;Special Bonus&lt;/strong&gt;&lt;/br&gt;
+This books contains the app DynPy.&lt;/br&gt;
+After deploying the DynPy app you are able to continue develop your app on the phone without the need to recompile.
+&lt;/p&gt;"
+                }
+            }
+        }
+    }
+
+    Section {
+
+        Row {
+
+            Column {
+                span: 12
+
+                Text {
+                    text: "&lt;!-- CALLOUT --&gt;
+&lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
+&lt;h3&gt;The book is avaible now on &lt;strong&gt;Amazon&lt;/strong&gt;.&lt;a href=&quot;https://kdp.amazon.com/amazon-dp-action/us/dualbookshelf.marketplacelink/B0891YRMJT&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Get It&lt;/a&gt;&lt;/h3&gt;
+&lt;/div&gt;
+&lt;!-- /CALLOUT --&gt;"
+                    adminlabel: "CALLOUT"
+                }
+            }
+        }
+    }
+
+    Section {
+
+        Row {
+
+            Column {
+                span: 8
+
+                Text {
+                    text: "&lt;h2&gt;Develop Cross Platform Desktop Applications using Python, Qt and PyQt5&lt;/h2&gt;
+&lt;p&gt;
+Are you going to build a GUI app for Windows, Mac OS or Linux using Python or are you just curious 
+what&#x27;s possible in your programming language of choice then this book is for you.
+This book covers the full process from installing over coding to deploying apps to the specific 
+platforms using Python, Qt5, PyQt5 and Visual Studio Code.&lt;/br&gt;
+This book covers both the imperative approach using QtWigets and the declarative approach using 
+QtQuick and QML.&lt;/br&gt;
+I will show you how to setup a Linux machine as development and deployment platform.&lt;/br&gt;
+All apps described in this book should also work on the other above mentioned platform.&lt;/br&gt;&lt;/br&gt;
+
+&lt;strong&gt;Who This Book Is For&lt;/strong&gt;&lt;/br&gt;
+If you are able to write basic Python code and you are interested in developing apps with user 
+interfaces for multiple platforms in Python this book is right for you.&lt;/br&gt;
+This book does not assume that you are familiar with Qt.&lt;/br&gt;
+If you want, try out all of the examples in this book it would be a great benefit if you are also 
+working on a Linux machine like me, but MacOS and Windows should also be ok if your are able to 
+search for help in the internet for OS specific differences.&lt;/br&gt;&lt;/br&gt;
+
+If you already read my book Python GUI - Develop Cross Platform GUI Applications using Python, Qt 
+and PyQt5 you might only see that one chapter differences to this book along some other enhancements.
+I used a few chapters of that book and I only added one chapter about the line of business 
+applications and therefore I have dropped the Android part.
+&lt;/p&gt;"
+                }
+            }
+
+            Column {
+                span: 4
+
+                Image {
+                    src: "PythonGUIEN.png"
+                    animation: "fadeIn"
+                    animation_type: "Fading Entrances"
+                }
+            }
+        }
+    }
+
+    Section {
+
+        Row {
+
+            Column {
+                span: 12
+
+                Text {
+                    text: "&lt;!-- CALLOUT --&gt;
+&lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
+&lt;h3&gt;The book is avaible now on &lt;strong&gt;Amazon&lt;/strong&gt;.&lt;a href=&quot;https://kdp.amazon.com/amazon-dp-action/us/dualbookshelf.marketplacelink/B088FWNFQP&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Get It&lt;/a&gt;&lt;/h3&gt;
+&lt;/div&gt;
+&lt;!-- /CALLOUT --&gt;"
+                    adminlabel: "CALLOUT"
+                }
+            }
+        }
+    }
+
+    Section {
         cssclass: "parallax margin-top80"
         style: "background-image: url('assets/images/natur3.jpg');"
         attributes: "data-stellar-background-ratio='0.7'"

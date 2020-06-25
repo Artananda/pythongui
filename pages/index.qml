@@ -62,6 +62,168 @@ Content {
     }
 
     Section {
+
+        Row {
+
+            Column {
+                span: 12
+
+                Text {
+                    text: "&lt;h1 class=&quot;margin-top80&quot;&gt;Bücher&lt;/h1&gt;"
+                    adminlabel: "Bücher"
+                }
+            }
+        }
+    }
+
+    Section {
+
+        Row {
+
+            Column {
+                span: 4
+
+                Image {
+                    src: "CoverDE.png"
+                    animation: "fadeIn"
+                    animation_type: "Fading Entrances"
+                }
+            }
+
+            Column {
+                span: 8
+
+                Text {
+                    text: "&lt;h2&gt;Erstelle Android Applikationen mit Python, Qt und PyQt5&lt;/h2&gt;
+&lt;p&gt;
+	Planst du eine GUI Anwendung für Android in Python oder bist du neugierig was in deiner Lieblingsprogrammiersprache möglich ist, dann ist dieses Buch genau richtig für dich.
+Dieses Buch umfasst den gesamten Prozess angefangen mit der Installtion der nötigen Werkzeuge, über die Codierung der Anwendung bis hin zur Installation auf dem Endgerät mit Hilfe von Python, Qt5, PyQt5 und Visual Studio Code.
+Dieses Buch umfasst ausserdem den imperativen Weg mit der Nutzung von QtWidgets sowie den deklarativen Weg 
+mittels QtQuick und QML.&lt;/br&gt;
+Ich werde dir zeigen, wie man Linux als Entwicklerplatform einrichtet und wie man Anwendungen auf Linux und 
+einem Android Gerät installiert.&lt;/br&gt;&lt;/br&gt;
+
+&lt;strong&gt;Für Wen Ist Dieses Buch&lt;/strong&gt;&lt;/br&gt;
+Wenn du in der Lage bist, einfache Programme in Python zu schreiben und interessiert bist Anwendungen mit 
+einem grafischem Benutzer-Interface für alle möglichen Platformen zu schreiben, dann ist dieses Buch genau das 
+richtige für dich. &lt;/br&gt;
+Du musst dich nicht unbedingt mit Qt auskennen. &lt;/br&gt;
+Wenn du willst, probiere alle Beispiele aus diesem Buch selber aus. Von Vorteil wäre es, wenn du auch, wie ich, 
+auf Linux arbeitest. Die Beispiele sollten aber auch mühelos auf MacOS und Windows laufen. Lediglich für 
+die Installation der benötigten Software solltest du dich selber im Internet einlesen, da ich nur die nötigen 
+Schritte für Linux erkläre.&lt;/br&gt;&lt;/br&gt;
+
+Wenn du bereits mein Buch Python GUI - Erstelle Cross Platform GUI Applikationen using Python, Qt und PyQt5 
+gelesen hast, wirst du sehen, das ich lediglich das Kapitel mit dem Linux Deployment durch ein neues Kapitel 
+mit QML ersetzt habe. Neben einige Verbesserungen hat sich ansonsten aber nicht viel geändert. 
+Ausserdem enthält dieses Buch einen Bonus.&lt;/br&gt;&lt;/br&gt;
+
+&lt;strong&gt;Spezial Bonus&lt;/strong&gt;&lt;/br&gt;
+Dieses Buch enthält die App DynPy.
+Nachdem die App auf dem Android Handy instaliert wurde, kannst du die GUI auf dem Handy anpassen, 
+ohne die App neu zu kompilieren.&lt;/br&gt;&lt;/br&gt;
+
+Es ist auch möglich, die QML Datei von einem Webserver zu laden. 
+Somit ist es möglich auf dem Server zu entwickeln und es dann, ohne die App neu zu kompilieren, zu testen.
+&lt;/p&gt;"
+                    adminlabel: "Erstelle Android Applikationen mit Python, Qt und PyQt5"
+                }
+            }
+        }
+    }
+
+    Section {
+
+        Row {
+
+            Column {
+                span: 12
+
+                Text {
+                    text: "&lt;!-- CALLOUT --&gt;
+&lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
+&lt;h3&gt;Das Buch ist ab sofort auf &lt;strong&gt;Amazon&lt;/strong&gt; erhältlich.&lt;a href=&quot;https://kdp.amazon.com/amazon-dp-action/de/dualbookshelf.marketplacelink/B08BG5XNPL&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Zum Buch&lt;/a&gt;&lt;/h3&gt;
+&lt;/div&gt;
+&lt;!-- /CALLOUT --&gt;"
+                    adminlabel: "CALLOUT"
+                }
+            }
+        }
+    }
+
+    Section {
+
+        Row {
+
+            Column {
+                span: 8
+
+                Text {
+                    text: "&lt;h2 class=&quot;margin-top80&quot;&gt;Erstelle Cross Platform Desktop Applikationen mit Python, Qt und PyQt5&lt;/h2&gt;
+&lt;p&gt;
+Planst du eine GUI Anwendung für Windows, Mac OS oder Linux in Python oder bist du neugierig was in deiner 
+Lieblingsprogrammiersprache möglich ist, dann ist dieses Buch genau richtig für dich.&lt;/br&gt;
+Dieses Buch umfasst den gesamten Prozess angefangen mit der Installtion der nötigen Werkzeuge, über die 
+Codierung der Anwendung bis hin zur Installation auf dem Endgerät mit Hilfe von Python, Qt5, PyQt5 und Visual 
+Studio Code.&lt;/br&gt;
+Dieses Buch umfasst ausserdem den imperativen Weg mit der Nutzung von QtWidgets sowie den deklarativen Weg 
+mittels QtQuick und QML.&lt;/br&gt;
+Ich werde dir zeigen, wie man Linux als Entwicklerplatform einrichtet und wie man Anwendungen auf Linux und 
+einem Android Gerät installiert.&lt;/br&gt;
+Alle Anwendungen die in diesem Buch beschrieben sind sollten auch auf den anderen Platformen, die oben 
+beschrieben wurden, laufen.&lt;/br&gt;&lt;/br&gt;
+
+&lt;strong&gt;Für Wen Ist Dieses Buch&lt;/strong&gt;&lt;/br&gt;
+Wenn du in der Lage bist, einfache Programme in Python zu schreiben und interessiert bist Anwendungen mit 
+einem grafischem Benutzer-Interface für alle möglichen Desktop-Platformen zu schreiben, dann ist dieses Buch 
+genau das richtige für dich. 
+Du musst dich nicht unbedingt mit Qt auskennen. &lt;/br&gt;
+Wenn du willst, probiere alle Beispiele aus diesem Buch selber aus. Von Vorteil wäre es, wenn du auch, wie 
+ich, auf Linux arbeitest. Die Beispiele sollten aber auch mühelos auf MacOS und Windows laufen. Lediglich für 
+die Installation der benötigten Software solltest du dich selber im Internet einlesen, da ich nur die nötigen 
+Schritte für Linux erkläre.&lt;/br&gt;
+
+Wenn du bereits mein Buch Python GUI - Erstelle Cross Platform GUI Applikationen using Python, Qt und PyQt5 
+gelesen hast, wirst du sehen, das ich lediglich das Kapitel mit Android durch ein neues Kapitel mit LOB ersetzt 
+habe. Neben einige Verbesserungen hat sich ansonsten aber nicht viel geändert.&lt;/br&gt;
+Eine LOB ist eine Anwendung, bei der du über eine grafische Benutzeroberfläche verfügst und die Daten in einer 
+Datenbank gespeichert sind.
+&lt;/p&gt;"
+                }
+            }
+
+            Column {
+                span: 4
+
+                Image {
+                    src: "PythonGUIDE.png"
+                    animation: "fadeIn"
+                    animation_type: "Fading Entrances"
+                }
+            }
+        }
+    }
+
+    Section {
+
+        Row {
+
+            Column {
+                span: 12
+
+                Text {
+                    text: "&lt;!-- CALLOUT --&gt;
+&lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
+&lt;h3&gt;Das Buch ist ab sofort auf &lt;strong&gt;Amazon&lt;/strong&gt; erhältlich.&lt;a href=&quot;https://kdp.amazon.com/amazon-dp-action/de/dualbookshelf.marketplacelink/B089644P5L&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Zum Buch&lt;/a&gt;&lt;/h3&gt;
+&lt;/div&gt;
+&lt;!-- /CALLOUT --&gt;"
+                    adminlabel: "CALLOUT"
+                }
+            }
+        }
+    }
+
+    Section {
         cssclass: "parallax margin-top80"
         style: "background-image: url('assets/images/natur3.jpg');"
         attributes: "data-stellar-background-ratio='0.7'"
